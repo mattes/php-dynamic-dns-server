@@ -15,7 +15,8 @@ Domain Registrar APIs (@todo)
 -----------------------------
 * https://www.inwx.de/de/download/file/api-current.zip
 * http://blog.philippklaus.de/blog/2011/05/31/access-the-internetworx-xml-rpc-api-via-python/
-
+* https://github.com/pklaus/python-inwx-xmlrpc
+* http://patrick.oberdorf.net/2011/10/07/inwx-de-als-dyndns/
 
 FritzBox 7360 Settings
 ----------------------
