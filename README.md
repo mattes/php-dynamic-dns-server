@@ -9,7 +9,7 @@ FritzBox 7360 Settings
 
 Name         | Value
 ------------ | -------------
-Update-URL   | http://example.com/update.php?ip4addr=&lt;ipaddr&gt;&ip6addr=&lt;ip6addr&gt;&user=&lt;username&gt;&password=&lt;pass&gt;&domain=&lt;domain&gt;
+Update-URL   | [http://example.com/update.php?ip4addr=&lt;ipaddr&gt;&ip6addr=&lt;ip6addr&gt;&user=&lt;username&gt;&password=&lt;pass&gt;&domain=&lt;domain&gt;](http://example.com)
 Domain       | anything you want, but make sure its a valid URL, e.g. www.example.com
 User         | our username from your config (in update.php)
 Password     | your password from your config (in update.php)
