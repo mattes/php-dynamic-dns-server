@@ -1,7 +1,14 @@
 Dynamic DNS Server
 ==================
 
-Upload this script to any PHP-enabled webspace and let FritzBox call it. It will work with other DynDNS-Clients as well.
+Upload this script to any PHP-enabled webspace and let FritzBox call it. *It will work with other DynDNS-Clients as well.*
+
+Usage
+-----
+* Upload everything to your webspace
+* (you may want to hide data.json and ip.template.html from your webroot)
+* Update the config section in update.php
+* Update your Dynamic DNS FritzBox settings
 
 
 FritzBox 7360 Settings
